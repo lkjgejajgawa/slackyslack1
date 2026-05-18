@@ -1,6 +1,6 @@
 # Zipkin compatible API
 
-Definitions for Zipkin compatible API, queryable via the Grafana datasource integration. 
+Definitions for Zipkin compatible API. Queryable via the Grafana datasource integration. 
 
 <api-doc openapi-path="../api/zipkin_api.yaml">
     <api-endpoint endpoint="/api/v2/trace/{traceId}" method="GET">
