@@ -22,7 +22,7 @@
         <micrometer.version>1.16.5</micrometer.version>
         <armeria.version>1.38.0</armeria.version>
         <armeria-brave.version>1.27.3</armeria-brave.version>
-        <kafka.version>3.5.0</kafka.version>
+        <kafka.version>4.3.1</kafka.version>
         <jackson.version>2.21.3</jackson.version>
         <jackson.annotations.version>2.21</jackson.annotations.version>
         <jackson.databind.version>2.21.3</jackson.databind.version>
