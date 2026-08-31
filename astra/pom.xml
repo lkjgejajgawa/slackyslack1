@@ -26,7 +26,7 @@
         <jackson.version>2.21.3</jackson.version>
         <jackson.annotations.version>2.21</jackson.annotations.version>
         <jackson.databind.version>2.21.3</jackson.databind.version>
-        <lucene.version>9.7.0</lucene.version>
+        <lucene.version>10.5.1</lucene.version>
         <opensearch.version>2.11.1</opensearch.version>
         <curator.version>5.8.0</curator.version>
         <log4j.version>2.26.0</log4j.version>
